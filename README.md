@@ -1,3 +1,9 @@
+---
+title: README
+created: '2022-07-22T14:13:51.307Z'
+modified: '2022-07-22T14:27:19.491Z'
+---
+
 # Visual-Object-Tracking-Lab304
 This repository collects some outstanding works in Video-Object-Tracking for everyone to learn.
 ## Some Links 
@@ -12,3 +18,6 @@ This repository collects some outstanding works in Video-Object-Tracking for eve
     
 ## Multi-Object Tracking (MOT)
 Here is a collection of outstanding MOT work from top conferences and journals. Some of them (such as SORT, DeepSORT, JDE, etc.) are highly influential in the field and attract much attention. The number of ⭐ in the table represents the level of attention it deserves, of course this is just a personal opinion. Hope it can be useful to you! Details Details are [here](https://github.com/Rongmiq/Visual-Object-Tracking-Lab304-/blob/main/MOT/MOT.md)!
+
+## Single-Object Tracking (SOT)
+Here is a collection of outstanding SOT work from top conferences and journals. Some of them (such as SiamFC, DiMP, etc.) are highly influential in the field and attract much attention. The number of ⭐ in the table represents the level of attention it deserves, of course this is just a personal opinion. Hope it can be useful to you！Details Details are [here](https://github.com/JaKeSu/Visual-Object-Tracking-Lab304-/blob/main/SOT/SOT.md)!
