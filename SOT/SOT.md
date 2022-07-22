@@ -1,9 +1,3 @@
----
-title: Visual-Object-Tracking-Lab304
-created: '2022-07-14T06:47:53.762Z'
-modified: '2022-07-22T13:10:41.619Z'
----
-
 # Visual-Object-Tracking-Lab304
 ## Single-Object Tracking (SOT)
 Here is a collection of outstanding SOT work from top conferences and journals. Some of them (such as SiamFC, DiMP, etc.) are highly influential in the field and attract much attention. The number of ⭐ in the table represents the level of attention it deserves, of course this is just a personal opinion. Hope it can be useful to you！
