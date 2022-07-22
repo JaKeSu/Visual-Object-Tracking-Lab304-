@@ -1,3 +1,9 @@
+---
+title: SOT
+created: '2022-07-22T14:08:52.659Z'
+modified: '2022-07-22T14:18:45.612Z'
+---
+
 # Visual-Object-Tracking-Lab304
 ## Single-Object Tracking (SOT)
 Here is a collection of outstanding SOT work from top conferences and journals. Some of them (such as SiamFC, DiMP, etc.) are highly influential in the field and attract much attention. The number of ⭐ in the table represents the level of attention it deserves, of course this is just a personal opinion. Hope it can be useful to you！
@@ -5,7 +11,7 @@ Here is a collection of outstanding SOT work from top conferences and journals. 
 ## OVERVIEW 
 The table shows some related information about these trackers. Siamese, Transformer and ATOM display main method the tracker using in the Type column.
 |Method|Type|Keywords|Ref@Paper|PageHome|Stars|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |SiamFC|Siamese|Anchor-based|[ECCV2016](https://arxiv.org/abs/1606.09549)|[Official](https://www.robots.ox.ac.uk/~luca/siamese-fc.html) or [Other( <font color=Red>**Recommended!!**</font>)](https://github.com/huanglianghua/siamfc-pytorch)|:star::star::star::star::star:|
 |SiamRPN|Siamese|Anchor-based|[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_High_Performance_Visual_CVPR_2018_paper.html)|[Official](https://github.com/STVIR/pysot)|:star::star::star::star::star:|
 |SiamRPN++|Siamese|Anchor-based|[CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.html)|[Official](https://github.com/STVIR/pysot)|:star::star::star::star:|
