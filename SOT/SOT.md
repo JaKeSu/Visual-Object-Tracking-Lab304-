@@ -1,8 +1,3 @@
----
-title: SOT
-created: '2022-07-22T14:18:47.046Z'
-modified: '2022-07-22T14:29:41.001Z'
----
 
 # Visual-Object-Tracking-Lab304
 ## Single-Object Tracking (SOT)
